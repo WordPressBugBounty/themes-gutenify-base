@@ -1,14 +1,15 @@
 "use strict";
 
 var _wp = wp,
-    apiFetch = _wp.apiFetch;
+  apiFetch = _wp.apiFetch;
 jQuery(function ($) {
   var gutenify_baseRedirectToKitPage = function gutenify_baseRedirectToKitPage(res) {
     // if( res?.status && 'active' === res.status ) {
-    window.location = "".concat(window.gutenify_base.gutenify_kit_gallery); // }
-  }; // Activate Gutenify.
+    window.location = "".concat(window.gutenify_base.gutenify_kit_gallery);
+    // }
+  };
 
-
+  // Activate Gutenify.
   $(document).on('click', '.gutenify-base-activate-gutenify', function () {
     $(this).html('<span class="dashicons dashicons-update"></span> Loading...').addClass('gutenify-base-importing-gutenify');
     apiFetch({

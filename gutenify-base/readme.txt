@@ -3,7 +3,7 @@
 Contributors: codeyatri
 Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
 Requires at least: 5.9
-Tested up to: 6.4
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -14,7 +14,7 @@ Gutenify Base is an easy-to-use, multi-purpose Full Site Editing theme.
 == Description ==
 
 Gutenify Base is modern block-based theme where you can build your own unique looking website by using WordPress Blocks Editor. Gutenify Base is a multipurpose block based free theme, the theme is built in accordance of Full Site Editing features introduced in WordPress 5.9, which means that all the aspects including colors, typography, and the layout of every single page on your site can be customized to suit your need.
-The true efficiency of Gutenify Base Theme lies in its customizability with combination of Gutenify Plugin. With Gutenify Plugin you can create different customized template, you can also use its in-built template kits and then further customize them according to your needs. Furthermore, using different blocks in combination of Gutenify Plugin’s solid additional blocks, each website will garner an exhibit look. With strong typography, and simple design, we want to achieve unique look for every website. Gutenify Plugin offers a wide variety of flexible and easy to use blocks which will make your website in combination with truly unique spectacle. You can create. A single-page website, a blog, a Base website, a portfolio, a construction site, or an education site, Gutenify Corporate with Gutenify Plugin will help you create something unique which you can truly call yours.
+The true efficiency of Gutenify Base Theme lies in its customizability with combination of Gutenify Plugin. With Gutenify Plugin you can create different customized template, you can also use its in-built template kits and then further customize them according to your needs. Furthermore, using different blocks in combination of Gutenify Plugin’s solid additional blocks, each website will garner an exhibit look. With strong typography, and simple design, we want to achieve unique look for every website. Gutenify Plugin offers a wide variety of flexible and easy to use blocks which will make your website in combination with truly unique spectacle. You can create. A single-page website, a blog, a Base website, a portfolio, a restaurant site, or an education site, Gutenify Corporate with Gutenify Plugin will help you create something unique which you can truly call yours.
 Official Support Forum: https://gutenify.com/contact/
 
 == Installation ==
@@ -28,6 +28,12 @@ Official Support Forum: https://gutenify.com/contact/
 = Does this theme support any plugins? =
 
 Gutenify Base includes support for Gutenify plugin.
+
+
+- 1.1.2 - Aug 25 2024 =
+* Sub Menu Link Issue fixed on Mobile.
+* Header Width Issue fixed.
+* Link Issue fixed revisited.
 
 - 1.1.1 - March 21 2024 =
 * Link Issue fixed revisited.
