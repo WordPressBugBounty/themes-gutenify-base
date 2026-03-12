@@ -3,7 +3,7 @@
 Contributors: codeyatri
 Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -29,6 +29,9 @@ Official Support Forum: https://gutenify.com/contact/
 
 Gutenify Base includes support for Gutenify plugin.
 
+
+- 1.1.3 - March 12, 2026 =
+* Sub Menu on Mobile
 
 - 1.1.2 - Aug 25 2024 =
 * Sub Menu Link Issue fixed on Mobile.
