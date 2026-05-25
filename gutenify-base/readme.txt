@@ -29,6 +29,9 @@ Official Support Forum: https://gutenify.com/contact/
 
 Gutenify Base includes support for Gutenify plugin.
 
+- 2.0.0 - May 25 2026 =
+* WordPress 7 compatibility
+
 
 - 1.1.3 - March 12, 2026 =
 * Sub Menu on Mobile
